@@ -41,6 +41,9 @@ Then, I create 2 violin plots of employment status vs rate, and income range vs 
 Staying on the not-employed category, more data is concentrated above the median proportionally and the frequency narrows down below the median.
 For categories self-employed and employed, the frequency distribution is more even that not-employed and we see slightly higher distribution before the median. 
 
+![chart](f.png)
+I also plot a graph of employment status against original loan amount. It is interesting to see that employed and full time employed individuals have highest top loan amount. The median of employed category is the highest as well.
+
 Moving to the income Range vs rate graph, I once again trend of difference between not-employed category to the ones with income. I notice a slight trend that the lower the income range is positioned, the lower the median rate. 
 
 ![chart](e.png)
