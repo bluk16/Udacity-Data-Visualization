@@ -102,6 +102,6 @@ at 3 - 3.5%. While the score will the most signifcant range is score 4.0 and 5.0
 ![chart](img/16.png)
 
 ## Multivariate Analysis
-The plot of avg. yearly borrower's rate vs isHomeowner shows that homeowners have higher rate than non-homeowners, and this is true for every year recorded in the dataset.
-Then, I plot avg. borrower's rate vs. prosper score vs. isHomeowner, I notice that for score 5 or above, homeowners have higher rate, and for scores below 5, homeowners have similar or lower borrowing rate.
+The plot of avg. yearly borrower's rate vs isHomeowner shows that homeowners have lower rate than non-homeowners, and this is true for every year recorded in the dataset.
+Then, I plot avg. borrower's rate vs. prosper score vs. isHomeowner, I notice that for score 5 or above, homeowners have lower rate, and for scores below 5, homeowners have similar or higher borrowing rate.
 I plot a ProsperScore vs. Borrower's rate vs. income range, and it gives a clear indication that the higher the income, the lower the rate will be. As for those unemployed, the rate will be signficantly higher than those who are employed.
