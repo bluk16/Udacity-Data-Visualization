@@ -16,6 +16,9 @@ The plot shows that it is rare that unemployed individual can obtain a loan from
 The income range of the borrower at the time the listing was created.
 The plot shows that most individual who has a loan has an income range from 25k to 75k.
 
+#### key insights conveyed by the explanatory presentation
+The key insight we observed here is that being unemployed is difficult to obtain a loan from Prosper.
+
 ![chart](img/2.png)
 
 ### Loan Status:
@@ -37,6 +40,10 @@ The Borrower's Annual Percentage Rate (APR) for the loan.
 
 ### BorrowerRate:
 The Borrower's interest rate for this loan. 
+
+#### key insights conveyed by the explanatory presentation
+
+The key insight we observed here is borrower rate range from 0.1 to 0.3. There is a peak slightly a bit over 0.3. Any rate over 0.3 or below 0.05 is uncommon.
 
 ![chart](img/6.png)
 
@@ -71,11 +78,20 @@ and
 ![chart](img/9.png)
 
 ### Occupation against borrower's rate
+
+#### key insights conveyed by the explanatory presentation
+The plot shows that it seems like occupation is a factor in the borrower's rate.
+The plot shows that occupation with lower average salary such as clerical, nurse's aid, bus driver and teacher's aide, have higher median rate than other occupations.
+
 ![chart](img/10.png)
+
 ### Occupation against Monthly loan payment
 ![chart](img/11.png)
 
 ### Yearly Borrower Rates
+#### key insights conveyed by the explanatory presentation
+It is interesting to see that rate goes up high after 2008 until 2001. And since then, the rate is steadily coming down until 2014.
+
 ![chart](img/12.png)
 
 ### Borrower rates vs. ProsperScore
@@ -93,12 +109,26 @@ at 3 - 3.5%. While the score will the most signifcant range is score 4.0 and 5.0
 
 ## Multivariate Exploration
 ### Yearly Borrower rate vs. isHomeOwner
+
+#### key insights conveyed by the explanatory presentation
+
+According to the plot, it does seem like homeowners have a slightly lower rate that non-homeowner. 
+
 ![chart](img/14.png)
 
 ### Year borrower's rate vs. ProsperScore vs. isHomeOwner
+
+#### key insights conveyed by the explanatory presentation
+
+The trend here is similar to (Yearly Borrower rate vs. isHomeOwner) graph. I notice that for score 5 or above, the homeowners have lower rate and for scores below 5, homeowners have similar or higher borrowing rate as non-homeowners.
 ![chart](img/15.png)
 
 ### Year borrower's rate vs. ProsperScore vs. IncomeRange
+
+#### key insights conveyed by the explanatory presentation
+
+This plot gives a clear indication that the higher the income, the lower the rate will be. As for those unemployed, the rate will be significantly higher than those who are employed.
+
 ![chart](img/16.png)
 
 ## Multivariate Analysis
